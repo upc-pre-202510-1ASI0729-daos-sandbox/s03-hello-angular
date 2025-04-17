@@ -1,4 +1,4 @@
-# Hello Angular Developer (hello-angular-developer)
+# s03-hello angular
 
 ## Overview
 
@@ -39,7 +39,7 @@ Refer to [docs/user-stories.md](docs/user-stories.md) for a list of user stories
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd hello-angular-developer
+   cd s03-hello-angular
 
 2. Install dependencies:
    ```bash
