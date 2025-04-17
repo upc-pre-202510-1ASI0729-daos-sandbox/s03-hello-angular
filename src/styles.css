@@ -1,0 +1,6 @@
+/* Global styles for the application */
+body {
+  font-family: Arial, sans-serif; /* Default font */
+  margin: 0; /* Remove default margins */
+  padding: 0; /* Remove default padding */
+}

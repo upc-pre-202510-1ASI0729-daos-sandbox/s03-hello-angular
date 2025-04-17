@@ -1,0 +1,7 @@
+<!-- Registration form component with event bindings -->
+<app-register-developer
+  (developerRegistered)="onDeveloperRegistered($event)"
+  (later)="onLater()"/>
+
+<!-- Greeting component displaying the current developer state -->
+<app-greet-developer [firstName]="firstName" [lastName]="lastName"/>
