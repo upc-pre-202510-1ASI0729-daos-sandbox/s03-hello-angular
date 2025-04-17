@@ -1,4 +1,4 @@
-# s03-hello angular
+# s03-hello-angular
 
 ## Overview
 
