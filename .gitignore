@@ -177,3 +177,11 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Doxygen
+html/
+rtf/
+latex/
+xml/
+man/
+docbook/
